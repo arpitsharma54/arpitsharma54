@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @arpitsharma54
-- 👀 I’m interested in Flutter Projects
-- 🌱 I’m currently learning dart Language
+- 👋 Hi, I’m @arpitsharma54 AKA (Arpit Sharma)
+- 👀 I’m interested in Flutter Projects.
+- 🌱 I’m currently learning ReactJS.
 - 📫 How to reach me arpitsanadhya23@gmail.com
 
 <!---
